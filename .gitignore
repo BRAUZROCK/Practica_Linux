@@ -1,0 +1,11 @@
+#que quiero ignorar
+__pycache__/
+*.pyc
+
+#prohibido ubir bases de datos
+*.csv
+*.xlsx
+datos_reales/
+
+#datos del sistema de termux o android, pa que???
+.DS_Store
